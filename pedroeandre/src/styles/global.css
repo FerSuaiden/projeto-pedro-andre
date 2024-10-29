@@ -1,0 +1,5 @@
+/* src/styles/global.css */
+/* Importa os estilos base, componentes e utilitários do Tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
